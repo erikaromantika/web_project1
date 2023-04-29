@@ -1,2 +1,2 @@
 # Simple Web Project "Online BookStore"
-This is a simple web project for the purposes of completing a challenge that I participated at Study Club on campus. This website uses HTML, CSS and Javascript.
+This is a simple web project to purposes of completing a challenge that I participated at Study Club UKM. This website uses HTML, CSS and Javascript.
